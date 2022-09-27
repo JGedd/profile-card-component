@@ -19,7 +19,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site at Netlify](https://profile-card-fb2f9d.netlify.app/)
 
 ## My process
 
@@ -34,7 +34,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-I learned how to add multiple css background iamges to the body
+I learned how to add multiple css background images to the body
 
 ## Author
 
